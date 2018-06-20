@@ -15,3 +15,8 @@ build:
     
   ci:
     - ls
+    - gcc --version
+    - autoconf --version
+    - automake --version
+    - ccache --version
+    - clang --version
